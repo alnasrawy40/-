@@ -1,0 +1,8 @@
+{
+  "name": "حروف الهجاء",
+  "description": "تطبيق تعليمي تفاعلي لتعليم حروف اللغة العربية والحركات (الفتحة، الضمة، الكسرة) بتسجيلات صوتية عبر MediaPlayer وألعاب تفاعلية لتلاميذ الصف الأول الابتدائي",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
